@@ -1,0 +1,3 @@
+SplashKit Animation
+f:[0-24],[0-24],4,0
+i:laugh1,0
